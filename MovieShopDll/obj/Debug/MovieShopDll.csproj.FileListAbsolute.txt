@@ -8,3 +8,13 @@ C:\Users\Michael Franch\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebApp
 C:\Users\Michael Franch\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.dll
 C:\Users\Michael Franch\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.pdb
 C:\Users\Michael Franch\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.csprojResolveAssemblyReference.cache
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\bin\Debug\MovieShopDll.dll.config
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\bin\Debug\MovieShopDll.dll
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\bin\Debug\MovieShopDll.pdb
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\bin\Debug\EntityFramework.dll
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\bin\Debug\EntityFramework.xml
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.csprojResolveAssemblyReference.cache
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.dll
+C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.pdb
