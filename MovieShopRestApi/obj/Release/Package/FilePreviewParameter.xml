@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="movieshopwebapi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\jakob\\OneDrive\\Dokumenter\\Visual\ Studio\ 2015\\Projects\\MovieShopBackEnd\\MovieShopRestApi\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\jakob\\OneDrive\\Dokumenter\\Visual\ Studio\ 2015\\Projects\\MovieShopBackEnd\\MovieShopRestApi\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-MovieShopRestApi-20161108022825.mdf;Initial Catalog=aspnet-MovieShopRestApi-20161108022825;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jakob\\OneDrive\\Dokumenter\\Visual\ Studio\ 2015\\Projects\\MovieShopBackEnd\\MovieShopRestApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="MovieShopDB-Web.config Connection String" description="" value="Server=tcp:movieshopapidb.database.windows.net,1433;Initial Catalog=movieshopdb;Persist Security Info=False;User ID=login;Password=C123456789*;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jakob\\OneDrive\\Dokumenter\\Visual\ Studio\ 2015\\Projects\\MovieShopBackEnd\\MovieShopRestApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MovieShopDB']/@connectionString" />
+  </parameter>
+</parameters>
