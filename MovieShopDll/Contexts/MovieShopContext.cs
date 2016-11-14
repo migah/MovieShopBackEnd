@@ -12,7 +12,7 @@ namespace MovieShopDll.Contexts
     {
         public MovieShopContext() : base("MovieShopDB")
         {
-
+            Configuration.ProxyCreationEnabled = false;
         }
 
         public DbSet<Genre> Genres { get; set; }

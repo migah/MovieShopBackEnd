@@ -18,3 +18,13 @@ C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\
 C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.csprojResolveAssemblyReference.cache
 C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.dll
 C:\Users\Michael PC\Dropbox\Skole\VisualStudio15\3. semester\MovieShopWebAppNEW\MovieShopDll\obj\Debug\MovieShopDll.pdb
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\bin\Debug\MovieShopDll.dll.config
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\bin\Debug\MovieShopDll.dll
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\bin\Debug\MovieShopDll.pdb
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\bin\Debug\EntityFramework.dll
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\bin\Debug\EntityFramework.xml
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\obj\Debug\MovieShopDll.csprojResolveAssemblyReference.cache
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\obj\Debug\MovieShopDll.dll
+C:\Users\macmini\Documents\Visual Studio 2015\Projects\MovieShopBackEnd\MovieShopDll\obj\Debug\MovieShopDll.pdb
